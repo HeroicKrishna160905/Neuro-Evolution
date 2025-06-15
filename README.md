@@ -23,7 +23,7 @@ Each agent is powered by a **feed-forward neural network** whose weights and bia
 
 ```
 evo2d.ipynb         # Main simulation notebook
-assets/             # (Optional) Visuals, GIFs, plots
+pop_gen999.gif            #GIF
 README.md           # This file
 ```
 
@@ -68,9 +68,9 @@ README.md           # This file
 
 ## 📽️ Demo Output
 
-> Below is a sample animation of predators vs. prey by generation 1000.
+> Below is a sample animation of predators vs. prey by generation 999.
 > 
-> ![Evolution GIF](assets/pop_gen999.gif) <!-- Replace with actual file path if added -->
+> ![Evolution GIF](pop_gen999.gif) <!-- Replace with actual file path if added -->
 
 Agents begin with erratic motion, but evolve structured migratory behaviors. Prey learn to gather near food zones and avoid edge hazards, while predators evolve flanking and pursuit paths.
 
@@ -95,16 +95,9 @@ Feel free to fork, modify, and build upon this work with attribution.
 
 ## 🙌 Credits & Inspiration
 
-- Written and created by **[Krishna Barai](https://medium.com/@krishnabarai160905)**
+- Written and created by **[Krishna Barai](https://medium.com/@krishnabarai160905)** · [LinkedIn](https://www.linkedin.com/in/krishna-barai-9a3889227/)
 - Inspired by co-evolution in nature and neuro-evolution in AI
 - Powered by classic genetic algorithms + feed-forward networks
 
 ---
-
-## 🧪 Future Ideas
-
-- Add static and dynamic obstacles for environmental pressure
-- Evolve more diverse species in multi-agent ecosystems
-- Extend genome to include learning rates or topology (NEAT-style)
-
 
