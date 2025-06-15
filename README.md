@@ -68,11 +68,12 @@ README.md           # This file
 
 ## 📽️ Demo Output
 
-> Below is a sample animation of predators vs. prey by generation 999.
-> 
-> ![Evolution GIF](pop_gen999.gif) <!-- Replace with actual file path if added -->
+![Evolution Progression](pop_gen999.gif)
 
-Agents begin with erratic motion, but evolve structured migratory behaviors. Prey learn to gather near food zones and avoid edge hazards, while predators evolve flanking and pursuit paths.
+### 🧬 Evolution in Action 
+
+The simulation begins with agents randomly scattered and behaviorally naive. Over generations, evolved neural controllers guide them toward food-rich areas while avoiding hazards — an emergent survival instinct shaped purely by neuro-evolution.
+
 
 ---
 
